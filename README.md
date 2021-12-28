@@ -1,7 +1,6 @@
-- Hi, I’m @ninadgawad
-- I’m a tech geek and technology product manager 
-- I’m currently learning Qiskit for Quantum algorithm developement in my spare time
-
+- Hello, I’m @ninadgawad
+- I'm **tech geek** and **developer @ heart**; working as **software engineering manager** and product owner 
+- Currently spending my spare time learning Qiskit for Quantum algorithm developement and developing apps on block chain 
 
 <!---
 ninadgawad/ninadgawad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
