@@ -26,7 +26,7 @@ Bunch of standard and gudelines that will yield the most efficient results for y
 - Project Risk
 - Resources
 
-### List of some Project Methodologies:
+## List of some Project Methodologies:
 1) Waterfall
 2) Agile
 3) Scrum
@@ -41,7 +41,6 @@ Bunch of standard and gudelines that will yield the most efficient results for y
 12) Outcome mapping
 
 
-
 ## Project Life cycle stages
 1) Initiation
 2) Planning
@@ -50,10 +49,23 @@ Bunch of standard and gudelines that will yield the most efficient results for y
 5) Closure
 
 
-## Tools:
-- https://www.atlassian.com/software/jira
+### Project Management Tools:
+- [JIRA](https://www.atlassian.com/software/jira)
 - https://www.broadcom.com/products/software/value-stream-management/rally
 - https://trello.com/en-US
+- https://www.proofhub.com/
+- https://www.wrike.com/
+- https://www.workzone.com/
+- https://asana.com/
+- https://basecamp.com/
+- https://www.bitrix24.com/
+- https://ganttpro.com/
+
+### Project Management Certifications:
+- PMP Certification
+- PRINCE2 F&P Certification
+- CAPM:tm: Certification
+- CSM Certification
 
 ### Reference Links:
 - https://www.pmi.org/
