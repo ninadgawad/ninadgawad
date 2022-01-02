@@ -32,6 +32,7 @@ Bunch of standard and gudelines that will yield the most efficient results for y
 3) Scrum
 4) Kanban
 5) ScrumBan
+6) PRINCE2
 
 
 ## Project Life cycle stages
