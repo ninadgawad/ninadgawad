@@ -29,6 +29,9 @@ Bunch of standard and gudelines that will yield the most efficient results for y
 ### List of some Project Methodologies:
 1) Waterfall
 2) Agile
+3) Scrum
+4) Kanban
+5) ScrumBan
 
 
 ## Project Life cycle stages
@@ -47,3 +50,5 @@ Bunch of standard and gudelines that will yield the most efficient results for y
 ### Reference Links:
 - https://www.pmi.org/
 - https://grow.google/certificates/project-management/
+- https://www.scrum.org/resources/what-is-scrum
+- https://www.agilealliance.org/glossary/kanban-board
