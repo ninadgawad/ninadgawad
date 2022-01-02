@@ -10,6 +10,26 @@
 - Communication Management
 - Risk Management
 - Procurement Management
+- Stakeholders Management
+
+
+### Methodologies: 
+Bunch of standard and gudelines that will yield the most efficient results for your project 
+
+### Factors to consider:
+- Size of Team
+- Project Budget
+- Flexibility
+- Timeline
+- Collaboration
+- Scalability
+- Project Risk
+- Resources
+
+### List of some Project Methodologies:
+1) Waterfall
+2) Agile
+
 
 ## Project Life cycle stages
 1) Initiation
