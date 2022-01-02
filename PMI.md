@@ -33,6 +33,13 @@ Bunch of standard and gudelines that will yield the most efficient results for y
 4) Kanban
 5) ScrumBan
 6) PRINCE2
+7) PMI's PMBOK
+8) Critical Path Method
+9) CCPM
+10) Lean
+11) eXtreme Programming(XP)
+12) Outcome mapping
+
 
 
 ## Project Life cycle stages
