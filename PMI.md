@@ -9,6 +9,7 @@
 - Resource Management
 - Communication Management
 - Risk Management
+- Procurement Management
 
 ## Project Life cycle stages
 1) Initiation
