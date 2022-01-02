@@ -8,6 +8,7 @@
 - Quality Management
 - Resource Management
 - Communication Management
+- Risk Management
 
 ## Project Life cycle stages
 1) Initiation
