@@ -6,6 +6,7 @@
 - Schedule Management
 - Cost Management
 - Quality Management
+- Resource Management
 
 ## Project Life cycle stages
 1) Initiation
