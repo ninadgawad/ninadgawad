@@ -66,6 +66,7 @@ Bunch of standard and gudelines that will yield the most efficient results for y
 - PRINCE2 F&P Certification
 - CAPM:tm: Certification
 - CSM Certification
+- AgilePM Certification
 
 ### Reference Links:
 - https://www.pmi.org/
