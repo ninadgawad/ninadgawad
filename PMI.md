@@ -49,6 +49,14 @@ Bunch of standard and gudelines that will yield the most efficient results for y
 5) Closure
 
 
+## There are several ways that you can develop your project management skills, including:
+- Reading
+- Certification
+- Joining an organization
+- Familiarizing yourself with a project management tool
+
+
+
 ### Project Management Tools:
 - [JIRA](https://www.atlassian.com/software/jira)
 - https://www.broadcom.com/products/software/value-stream-management/rally
