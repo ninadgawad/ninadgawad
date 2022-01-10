@@ -55,7 +55,13 @@ Bunch of standard and gudelines that will yield the most efficient results for y
 - Joining an organization
 - Familiarizing yourself with a project management tool
 
-
+## PM Tools 
+- Flexible work views
+- Cross-functional resource management
+- Dashboards
+- Reporting
+- Gantt charts
+- Timesheets
 
 ### Project Management Tools:
 - [JIRA](https://www.atlassian.com/software/jira)
