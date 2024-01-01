@@ -1,3 +1,5 @@
+## 🚀 Senior Manager of Software Engineering | Tech Leader | Innovator
+
 👋 Hey there! I'm Ninad, a seasoned Senior Manager of Software Engineering with a passion for driving innovation and leading high-performing teams
 
 ### Expertise:
