@@ -1,6 +1,7 @@
-## 🚀 Technology Leader | Software Engineering | Innovator | Geek
+## Technology Leader | Software Engineering Manager | Innovator | Geek
 
-👋 Hello there! I'm Ninad, a seasoned Senior Manager of Software Engineering with a passion for driving innovation and leading high-performing teams
+Hello there! I'm Ninad, a seasoned Software Engineering Manager with over two decades of extensive experience in the information technology industry. 
+I have a passion for driving innovation and leading high-performing teams to achieve remarkable results. 
 
 ### Expertise:
 - 🚀 Strategic Leadership: Spearheading software development strategies for optimal business outcomes.
@@ -21,11 +22,11 @@
 
 ### 🔧 Skills:
 - Programming Languages: Java, Scala, Python, SQL, React, Javascript, CSS
-- Frameworks & Libraries: Spark, Spring Boot, Junit, Mockito, Scikit-learn, Pandas
-- Databases: Oracle, PostgreSQL, MongoDB, Sybase ASE, MS-SQL
+- Frameworks & Libraries: Spark, Spring Boot, Junit, Mockito, Scikit-learn, Pandas, Streamlit
+- Databases: Oracle 19c, PostgreSQL, MongoDB, Sybase ASE, MS-SQL, SQlLite
 - Leadership: Team Building, Strategic Planning, Decision-Making, Empower
 - Methodologies: Agile, Scrum, Kanban
-- Tools & DevOps: IntelliJ, Git, Docker, Jenkins, Harness
+- Tools & DevOps: IntelliJ, VSCode, Git, Docker, Jenkins, Harness, Dynatrace, Splunk, Grafana
 
 ### 📈 Let's Connect:
 - 🌐 LinkedIn: [Profile](https://www.linkedin.com/in/ninadgawad/)
@@ -36,7 +37,7 @@
 
 
 ### Currently Spending my spare time:
-- 💻 Learning LLM models and leveraging AI assistant tools for improving developement efficiency 
+- 💻 Learning how to build apps using LLM models and leveraging AI code assistant tools for improving developer efficiency and delivery greater ROI. [LangChain](https://www.langchain.com/)
 - 🛠️ Enjoy IoT Coding using python, Web 3.0 using [Solidity](https://soliditylang.org/), [Qiskit](https://qiskit.org/) for Quantum algorithm developement and developing apps on block chain
 - 🚀 Exploring new technologies like **Big Data** for Data Management Goevrance and analytics using Spark/Scala/Java/Python 
 - 🌟 Knowledge of **AI/ML** and completed **Natural Language Processing** Course from Coursera
