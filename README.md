@@ -27,7 +27,7 @@ I have a passion for driving innovation and leading high-performing teams to ach
 - Leadership: Team Building, Strategic Planning, Decision-Making, Empower
 - Methodologies: Agile, Scrum, Kanban
 - Tools & DevOps: IntelliJ, VSCode, Git, Docker, Jenkins, Harness, Dynatrace, Splunk, Grafana
-- Certifications: AWS | Oracle | Java | Web Services | Finance
+- Certifications: AWS | Oracle | Java | Scala | Spring | ReactJS | Web Services | Finance
 
 ### 📈 Let's Connect:
 - 🌐 LinkedIn: [Profile](https://www.linkedin.com/in/ninadgawad/)
