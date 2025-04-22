@@ -38,7 +38,7 @@ I have a passion for driving innovation and leading high-performing teams to ach
 
 
 ### Currently Spending my spare time:
-- Learning how to build apps using LLM models and leveraging AI code assistant tools for improving developer efficiency and delivery greater ROI. [LangChain](https://www.langchain.com/)
+- Learning how to build apps using LLM models and leveraging AI code assistant tools using MCP server for improving developer efficiency and delivery greater ROI. [LangChain](https://www.langchain.com/)
 - Enjoy IoT Coding using python, Web 3.0 using [Solidity](https://soliditylang.org/), [Qiskit](https://qiskit.org/) for Quantum algorithm developement and developing apps on block chain
 - Exploring new technologies like **Big Data** for Data Management Goevrance and analytics using Spark/Scala/Java/Python 
 - Knowledge of **AI/ML** and completed **Natural Language Processing** Course from Coursera
