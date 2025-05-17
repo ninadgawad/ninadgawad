@@ -29,11 +29,6 @@ I have a passion for driving innovation and leading high-performing teams to ach
 - Tools & DevOps: IntelliJ, VSCode, Git, Docker, Jenkins, Harness, Dynatrace, Splunk, Grafana
 - Certifications: AWS | Oracle | Java | Web Services | Finance
 
-### Let's Connect:
-- LinkedIn: [Profile](https://www.linkedin.com/in/ninadgawad/)
-- X: [@ninadgawad]
-- Email: [@ninadgawad]
-
 #### Ready to bring innovation to the intersection of frontend and backend development for build products that matter !!
 
 
