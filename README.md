@@ -29,9 +29,6 @@ I have a passion for driving innovation and leading high-performing teams to ach
 - Tools & DevOps: IntelliJ, VSCode, Git, Docker, Jenkins, Harness, Dynatrace, Splunk, Grafana
 - Certifications: AWS | Oracle | Java | Web Services | Finance
 
-#### Ready to bring innovation to the intersection of frontend and backend development for build products that matter !!
-
-
 ### Currently Spending my spare time:
 - Learning how to build MCP servers using LLM models and leveraging AI code assistant for improving developer efficiency and delivery greater ROI. [MCP](https://github.com/modelcontextprotocol/java-sdk) & [LangChain](https://www.langchain.com/)
 - Enjoy IoT Coding using python, Web 3.0 using [Solidity](https://soliditylang.org/), [Qiskit](https://qiskit.org/) for Quantum algorithm developement and developing apps on block chain
