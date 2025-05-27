@@ -1,7 +1,16 @@
-## Technology Leader | Software Engineering Manager | Innovator | Geek
+## Technology Executive | Engineering Leader | Platform Architect | Innovation Catalyst | Geek
 
-Hello there! I'm Ninad, a seasoned Software Engineering Manager with over two decades of extensive experience in the information technology industry. 
-I have a passion for driving innovation and leading high-performing teams to achieve remarkable results. 
+Hi, I'm Ninad! - a technology leader and software engineering strategist with 20+ years of experience building scalable systems, mentoring global teams, and driving transformative innovation across industries. 
+Passionate about innovation and strategic leadership, I empower teams to build impactful, future-ready solutions. 
+- I specialize in designing enterprise-grade platforms, leading AI/ML and cloud-native initiatives, and aligning engineering execution with business strategy.
+- From startup scrappiness to enterprise scale, I’ve led high-impact teams, implemented architectural best practices, and built platforms adopted across global organizations.
+- I’m deeply passionate about developer experience, emerging technologies (LLMs, data mesh, Web3), and building inclusive cultures where innovation thrives.
+
+This GitHub reflects my journey: astronomy, hobby, open-source contributions, system design playbooks, AI research, and experiments-in-progress.
+```
+Code may power the systems — but people, vision, and clarity build the future.
+```
+
 
 ### Expertise:
 - Strategic Leadership: Spearheading software development strategies for optimal business outcomes.
