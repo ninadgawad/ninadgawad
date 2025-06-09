@@ -1,4 +1,4 @@
-## Technology Executive | Engineering Leader | Platform Architect | Innovation Catalyst | Geek
+## Technology Executive | Engineering Leader | Platform Architect | Innovator | Geek
 
 Hi, I'm Ninad! - a technology leader and software engineering strategist with 20+ years of experience building scalable systems, mentoring global teams, and driving transformative innovation across industries. 
 Passionate about innovation and strategic leadership, I empower teams to build impactful, future-ready solutions. 
