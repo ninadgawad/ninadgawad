@@ -36,6 +36,7 @@ Code may power the systems — but people, vision, and clarity build the future.
 - Leadership: Team Building, Strategic Planning, Decision-Making, Empower
 - Methodologies: Agile, Scrum, Kanban
 - Tools & DevOps: IntelliJ, VSCode, Git, Docker, Jenkins, Harness, Dynatrace, Splunk, Grafana
+- AI Coding Agents: Githup Copilot, Codeium/Windsurf, Roo Code, Antigravity  
 - Certifications: AWS | Oracle | Java | Web Services | Finance
 
 ### Currently Spending my spare time:
