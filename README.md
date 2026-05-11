@@ -1,4 +1,4 @@
-## Technology Executive | Engineering Leader | Platform Architect | Innovator | Geek
+## Technology Executive | Engineering Leader | AI Architect | Innovator | Geek
 
 Hi, I'm Ninad! - a technology leader and software engineering strategist with 20+ years of experience building scalable systems, mentoring global teams, and driving transformative innovation across industries. 
 Passionate about innovation and strategic leadership, I empower teams to build impactful, future-ready solutions. 
@@ -10,6 +10,13 @@ This GitHub reflects my journey: astronomy, hobby, open-source contributions, sy
 ```
 Code may power the systems — but people, vision, and clarity build the future.
 ```
+
+### Specializations
+- **Enterprise Architecture** - Multi-cloud, scalable distributed systems
+- **Cloud-Native Transformation** - Kubernetes, microservices, serverless patterns  
+- **AI/ML Integration** - LLM architectures, generative AI systems, MCP servers
+- **Full-Stack Leadership** - Java/Spring Boot, React, TypeScript, modern stacks
+- **Data Platform Architecture** - Streaming, warehousing, real-time analytics
 
 
 ### Expertise:
@@ -30,17 +37,32 @@ Code may power the systems — but people, vision, and clarity build the future.
 - Spearheaded the adoption of cutting-edge technologies, resulting in a more responsive and modern user interface and efficent data analytics leveraging AI/ML.
 
 ### Skills:
-- Programming Languages: Java, Scala, Python, SQL, React, Javascript, CSS
-- Frameworks & Libraries: Spark, Spring Boot, Junit, Mockito, Scikit-learn, Pandas, Streamlit
-- Databases: Oracle 19c, PostgreSQL, MongoDB, Sybase ASE, MS-SQL, SQlLite
-- Leadership: Team Building, Strategic Planning, Decision-Making, Empower
-- Methodologies: Agile, Scrum, Kanban
-- Tools & DevOps: IntelliJ, VSCode, Git, Docker, Jenkins, Harness, Dynatrace, Splunk, Grafana
-- AI Coding Agents: Githup Copilot, Codeium/Windsurf, Roo Code, Antigravity  
-- Certifications: AWS | Oracle | Java | Web Services | Finance
+- **Programming Languages** - Java, Scala, Python, SQL, React, Javascript, CSS
+- **Frameworks & Libraries** - Spark, Spring Boot, Junit, Mockito, Scikit-learn, Pandas, Streamlit
+- **Databases** - Oracle 19c, PostgreSQL, MongoDB, Sybase ASE, MS-SQL, SQlLite, Neo4J, DuckDB
+- **Leadership** - Team Building, Strategic Planning, Decision-Making, Empower
+- **Methodologies** - Agile, Scrum, Kanban
+- **Tools & DevOps** - IntelliJ, VSCode, Git, Docker, Jenkins, Harness, Dynatrace, Splunk, Grafana
+- **AI Coding Agents** - Githup Copilot, Codeium/Windsurf, Roo Code, Antigravity  
+- **Certifications** - AWS | Oracle | Java | Web Services | Finance
 
-### Currently Spending my spare time:
-- Learning how to build MCP servers using LLM models and leveraging AI code assistant for improving developer efficiency and delivery greater ROI. [MCP](https://github.com/modelcontextprotocol/java-sdk) & [LangChain](https://www.langchain.com/)
+### Currently Learning:
+- Learn and Build Application using Harness Agent - [Hermes Agent](https://github.com/nousresearch/hermes-agent)
+- Learning how to build MCP servers to manage Domain Knowledge
 - Enjoy IoT Coding using python, Web 3.0 using [Solidity](https://soliditylang.org/), [Qiskit](https://qiskit.org/) for Quantum algorithm developement and developing apps on block chain
 - Exploring new technologies like **Big Data** for Data Management Goevrance and analytics using Spark/Scala/Java/Python 
 - Knowledge of **AI/ML** and completed **Natural Language Processing** Course from Coursera
+
+### Recent Focus Areas
+- **AI-Augmented Architecture** - Integrating LLMs into system design workflows
+- **Sustainable Architecture** - Energy-efficient cloud patterns  
+- **Platform Engineering** - Internal developer platform strategies
+- **Legacy Modernization** - Strangler Fig and evolutionary architecture patterns
+
+## Career Snapshot
+| Experience | Focus Area |
+|------------|------------|
+| **1000+** | Production System Deployments |
+| **100+** | Technical Leads & Architecture Reviews |
+| **20+ Years** | Enterprise Software Architecture |
+| **10+** | Cloud Migrations (AWS/Azure/GCP) |
