@@ -20,14 +20,14 @@ Code may power the systems — but people, vision, and clarity build the future.
 
 
 ### Expertise:
-- Strategic Leadership: Spearheading software development strategies for optimal business outcomes.
-- Technical Vision: Crafting and executing roadmaps that align with organizational goals.
-- Full Stack Mastery: Proficient in Java, Scala, Apache Spark, Javascript, ReactJS, SQL, PL/SQL, Big Data, ETL/ELT, Data Analytics, AI/ML supervised models  
-- Architecture Design: Building scalable and resilient systems for robust performance.
-- API Development: Skilled in creating RESTful and GraphQL APIs to enable seamless communication between frontend and backend systems.
-- Agile Champion: Driving Agile methodologies for efficient project delivery.
-- Backend Technologies: Proficient in building scalable and robust server-side applications with technologies like Node.js, ReactJS, and Java SpringBoot.
-- Databases: Experienced in designing and optimizing database schemas with SQL (Oracle 19c, PostgreSQL), Object Store (S3) and NoSQL (MongoDB) databases.
+- **Strategic Leadership** - Spearheading software development strategies for optimal business outcomes.
+- **Technical Vision** - Crafting and executing roadmaps that align with organizational goals.
+- **Full Stack Mastery** - Proficient in Java, Scala, Apache Spark, Javascript, ReactJS, SQL, PL/SQL, Big Data, ETL/ELT, Data Analytics, AI/ML supervised models  
+- **Architecture Design** - Building scalable and resilient systems for robust performance.
+- **API Development** - Skilled in creating RESTful and GraphQL APIs to enable seamless communication between frontend and backend systems.
+- **Agile Champion** - Driving Agile methodologies for efficient project delivery.
+- **Backend Technologies** - Proficient in building scalable and robust server-side applications with technologies like Node.js, ReactJS, and Java SpringBoot.
+- **Databases** - Experienced in designing and optimizing database schemas with SQL (Oracle 19c, PostgreSQL), Object Store (S3) and NoSQL (MongoDB) databases.
 
 ### Key Achievements:
 - Led a cross-functional team in delivering multiple regulatory finacial technology based projects on schedule, resulting in vendor exit and significant long term cost benefits.
@@ -48,7 +48,7 @@ Code may power the systems — but people, vision, and clarity build the future.
 
 ### Currently Learning:
 - Learn and Build Application using Harness Agent - [Hermes Agent](https://github.com/nousresearch/hermes-agent)
-- Learning how to build MCP servers to manage Domain Knowledge
+- Learning how to build MCP servers to manage Domain Knowledge using [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
 - Enjoy IoT Coding using python, Web 3.0 using [Solidity](https://soliditylang.org/), [Qiskit](https://qiskit.org/) for Quantum algorithm developement and developing apps on block chain
 - Exploring new technologies like **Big Data** for Data Management Goevrance and analytics using Spark/Scala/Java/Python 
 - Knowledge of **AI/ML** and completed **Natural Language Processing** Course from Coursera
